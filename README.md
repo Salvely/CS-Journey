@@ -27,23 +27,63 @@
   - [ ] 图灵机，图灵停机问题和图灵完备性是什么？
   - [ ] Syntax, static semantics, semantics 分别是什么？如何检测？
   - [ ] 使用 C++实现 Python 简易解释器：实现课程中学到的 Python 语法
-    - [ ] 数据结构课程学习，并用 C++实现所有数据结构
+    - [ ] 数据结构课程学习
+      - [ ] CS61B Sp18 学习
+      - [ ] CS61B Sp21 学习
+      - [ ] 数据结构与算法分析——Java 语言描述阅读，用 Java 实现其上所有数据结构
       - [ ] 数据结构与算法分析——C++语言描述阅读，并实现其上所有数据结构
-        - [ ] cmake 基础使用复习
-        - [ ] 实现 list 的接口
+        - [ ] Chapter 4:List, Stack & Queue
+          - [x] cmake 基础使用学习
+          - [x] clion 下 cmake 基础项目配置完成
+          - [x] 实现 list class interface
+          - [x] C++ 模板在 cmake 中的编译学习(和普通的是一样的)
+          - [ ] alist, llist, dllist 基本功能实现
+          - [ ] `googleTest`安装配置学习
+          - [ ] C++ 单元测试框架`googleTest`学习
+          - [ ] Clion 单元测试框架配置
+          - [ ] 为 list 添加单元测试
+          - [ ] 对照课本比较实现，优化实现
+          - [ ] 实现 stack class
+            - [ ] 实现 array stack
+            - [ ] 实现 linked list stack
+          - [ ] 实现 queue class
+            - [ ] 实现单向 array queue
+            - [ ] 实现 double ended array queue
+            - [ ] 实现 list queue
+          - [ ] 实现 dictionary class
+        - [ ] Chapter 5: Binary Trees
+          - [ ] 实现普通二叉树
+          - [ ] 实现二叉搜索树
+          - [ ] 实现堆
+          - [ ] 实现最小优先队列
+        - [ ] Chapter 6
+        - [ ] Chapter 7
+        - [ ] Chapter 8
+        - [ ] Chapter 9
+        - [ ] Chapter 10
+        - [ ] Chapter 11
+        - [ ] Chapter 12
+        - [ ] Chapter 13
+        - [ ] Chapter 14
+        - [ ] Chapter 15
+        - [ ] Chapter 16
+        - [ ] Chapter 17
         - [ ] Vscode cmake 环境配置
-        - [ ] CPack 的使用
-        - [ ] CTest 的使用
+        - [ ] CPack 的使用学习
+        - [ ] CTest 的使用学习
+      - [ ] CS106B 教材习题全部完成
       - [ ] 邓俊辉——C++数据结构课程学习，实现所有数据结构，并完成课程任务
       - [ ] [数据结构与 STL (豆瓣) (douban.com)](https://book.douban.com/subject/1152139/) 阅读
       - [ ] [高级算法和数据结构 (豆瓣) (douban.com)](https://book.douban.com/subject/36654266/) 阅读
       - [ ] 阅读《STL 源码剖析》，了解 C++实现过程中的数据结构和内存分配
       - [ ] 软件工程学习
+        - [ ] 《软件工程原理》沈备军阅读并做笔记
       - [ ] CS 61 B sp 18 课程学完
       - [ ] CS 61 B 所有数据结构使用 C++实现
       - [ ] CS 61 B sp 21 课程学完
-    - [ ] 实现一个 Git
-    - [ ] `Git` 源码学习
+      - [ ] 其他数据结构课程学完
+      - [ ] 实现一个 `Git`
+      - [ ] `Git` 源码学习
     - [ ] 形式语言与自动机学习
       - [ ] 实现小型自动机
       - [ ] 实现文法自动检测器
@@ -52,11 +92,12 @@
       - [ ] 实现正则表达式检测器
       - [ ] 实现小型数理逻辑语言
     - [ ] 汇编语言学习
-    - [ ] 了解多种基本的文件结构，并实现他们
-    - [ ] 汇编器和链接器原理学习
-    - [ ] 实现汇编器和链接器
-    - [ ] 《游戏脚本编程实战》阅读并实现 ScriptVM
+      - [ ] 学习 MIPS，RISV32/64,ARM
+      - [ ] 了解多种基本的文件结构，并实现他们
+      - [ ] 汇编器和链接器原理学习
+      - [ ] 实现汇编器和链接器
     - [ ] 编译原理学习
+      - [ ] 《游戏脚本编程实战》阅读并实现 ScriptVM
       - [ ] 《Compiler Construction》 Loudon 版本阅读
       - [ ] 简单的 C 语言编译器实现
       - [ ] PL/0 编译器实现
@@ -68,27 +109,29 @@
       - [ ] JVM 实现
       - [ ] GC 原理探索
       - [ ] GC 实现
-    - [ ] Crafting interpreters 阅读学习
-    - [ ] 动态类型语言编译学习
-    - [ ] Lua 解释器实现学习
-    - [ ] JVM 虚拟机实现学习
+      - [ ] Crafting interpreters 阅读学习
+      - [ ] 动态类型语言编译学习
+      - [ ] Lua 解释器实现学习
+      - [ ] JVM 虚拟机实现学习
     - [ ] Cpp-python 剩余部分完成
-    - [ ] 单元测试完善
+    - [ ] cpp-python 测试完善
       - [ ] MIT 课本快速过完，用 `cpp-python` 实现其中算法，利用 `googleTest` 进行单元测试
       - [ ] CS 61 A 课程学习
       - [ ] 使用 Python 实现一个 Scheme 解释器
       - [ ] 用 CS 61 A 课程课程中的代码，添加更多 `googleTest` 单元测试
       - [ ] 用我自己的 cpp-python 运行我自己用 python 实现的的 Scheme 解释器
-    - [ ] [CPython 设计与实现 (豆瓣) (douban.com)](https://book.douban.com/subject/36930818/) 阅读
-    - [ ] [Python 源码剖析 (豆瓣) (douban.com)](https://book.douban.com/subject/3117898/) 阅读
-    - [ ] [python/cpython: The Python programming language (github.com)](https://github.com/python/cpython) 源码研究
-    - [ ] 将我的 cpp-python 文档优化
-    - [ ] 改进我的 cpp-python 解释器
+    - [ ] cpp-python 进一步优化
+      - [ ] [CPython 设计与实现 (豆瓣) (douban.com)](https://book.douban.com/subject/36930818/) 阅读
+      - [ ] [Python 源码剖析 (豆瓣) (douban.com)](https://book.douban.com/subject/3117898/) 阅读
+      - [ ] [python/cpython: The Python programming language (github.com)](https://github.com/python/cpython) 源码研究
+      - [ ] 将我的 cpp-python 文档优化
+      - [ ] 改进我的 cpp-python 解释器
     - [ ] Web 前端初步学习
     - [ ] 使用 javascript 实现 Web 版本 Python 解释器
   - [ ] 实现 Javascript 动态类型解释器
   - [ ] 学习其他函数式语言，并实现其解释器（留坑）
     - [ ] SICP 学习，使用 Scheme 实现 Scheme 解释器
+    - [ ] Scala 学习，使用 C/C++ 实现 Scala
   - [ ] 实现一个根据语义自动自动生成编译器前端代码的工具
   - [ ] `flex` 和 `bison` 源码阅读学习
   - [ ] `ANTLR` 源码阅读学习
@@ -102,31 +145,36 @@
   - [ ] Python 拓展方向学习
   - [ ] 扩展 Python 简易解释器：实现拓展方向的 Python 功能
   - [ ] 实现一个 CMake
-  - [ ] 实现一个简单的语言（简易的 MIPS/RISC-V/ARM 版本）
+  - [ ] 实现一个简单的语言编译器（简易的 MIPS/RISC-V/ARM 版本）
 
 ### 计算机体系结构
 
 - [ ] 数字逻辑
 - [ ] 组成原理
 - [ ] 计算机体系结构
-- [ ] 在 riscv 32/riscv 64/arm/mips 下实现能运行 Linux 操作系统的一个 CPU 模拟器
+- [ ] 实现一个能运行在 FPGA 上的 CPU
 - [ ] CPU 优化到运行 xv 6 操作系统（龙芯杯要求）
 - [ ] CPU 优化到可以运行 Linux 操作系统
-- [ ] 一生一芯
-- [ ] 设计简易的 CPU 模拟器（类似 Qemu）
+- [ ] 实现一个小型的玩具 OS，满足基本功能就可以
+- [ ] NJU PA 课程学习
+- [ ] 一生一芯学习，研究 Nemu 模拟器的构造
+- [ ] 在 riscv 32/riscv 64/arm/mips 下实现能运行 Linux 操作系统的一个 CPU 模拟器
 - [ ] 将 CPU 模拟器优化到可以运行 xv 6 操作系统
 - [ ] 将 CPU 模拟器优化到可以运行 Linux 操作系统
 
 ### 系统构建
 
+- [ ] CSAPP 阅读并完成所有的 lab
 - [ ] Principles of computer systems 课程学习
 - [ ] MIT Computer system Engineering
 - [ ] SJTU Computer system Engineering
 
 ### 操作系统
 
-- [ ] 研究 MIT 等简单操作系统，设计简单的操作系统
-- [ ] 优化操作系统，将编译器移植到该操作系统上
+- [ ] 《操作系统概念》课本阅读，实现一些简单的轮子
+- [ ] 《操作系统设计与实现》阅读，实现一个小型的操作系统
+- [ ] 研究 xv6 等简单操作系统，优化我的操作系统
+- [ ] 继续优化操作系统，将编译器移植到该操作系统上
 - [ ] 为操作系统增加图形接口编写图形界面
 - [ ] 实现一个红白机模拟器上的超级马里奥游戏
 - [ ] 将红白机模拟器上的超级马里奥游戏，移植到我自己的 CPU 模拟器上
@@ -138,7 +186,8 @@
 ### 计算机网络
 
 - [ ] 实现小型的 TCP/IP 网络协议栈
-- [ ] 为操作系统增加网络协议栈
+- [ ] 为我的操作系统增加网络协议栈
+- [ ] 实现云操作系统
 
 ### 数据库系统
 
@@ -150,7 +199,6 @@
 - [ ] 给 mysql 提 Patch
 - [ ] 阅读数据库经典论文
 - [ ] 完善自己的数据库
-
 - [ ] 实现一个小型的数据库系统
   - [ ] 支持增删查改索引
   - [ ] 实现 mysql 协议
@@ -159,13 +207,14 @@
 
 ### 并行与分布式系统
 
-- [ ] 实现分布式协议
+- [ ] 实现各个分布式协议
+- [ ] 在我的数据库上添加分布式协议
 
 ### 系统安全
 
-### 嵌入式系统
-
 ## 图形学方向
+
+### 基础数学学习
 
 ### 基础游戏编程
 
@@ -202,5 +251,3 @@
 ## AI 方向
 
 ## 面试准备
-
-## 理论计算机
