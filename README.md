@@ -15,9 +15,12 @@
 
 ## Pre
 
+> [!TIP]
+> `cmake`部分：使用`cmake-examples`仓库学习，完整的配置过程参考这里：[cmake 配置](https://jamhus-tao.github.io/posts/cpp-cmake-abc/)
+>
+> 数学基础学习部分：见[math-Journey](https://github.com/Salvely/math-Journey)
+
 - [x] CMake 基础使用学习
-  > [!TIP]
-  > 使用`cmake-examples`仓库学习，完整的配置过程参考这里：[cmake 配置](https://jamhus-tao.github.io/posts/cpp-cmake-abc/)）
   - [x] cmake 基础
   - [x] cmake 子项目配置
   - [x] 代码静态检查
@@ -187,7 +190,7 @@
 ## 个人项目开发
 
 > [!TIP]
-> 本阶段进行个人项目的开发，目的是像 Linus 和法布里斯贝拉那样实现一些改变世界的工程项目。
+> 本阶段进行个人项目的开发，目的是像卡玛克和法布里斯贝拉那样实现一些改变世界的工程项目。
 
 ## 找到工作并赚到钱
 
