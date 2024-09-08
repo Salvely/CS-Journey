@@ -177,8 +177,8 @@
   - [other semester](https://courses.engr.illinois.edu/cs225/sp2022/)
   - [lab](https://github.com/cs225-illinois)
 
-<!-- - [ ] [CMSC Data strcture](https://www.cs.umd.edu/class/fall2019/cmsc420-0201/index.html) -->
-<!-- - [ ] Stanford CS106B/CS106X -->
+- [ ] [CMSC Data strcture](https://www.cs.umd.edu/class/fall2019/cmsc420-0201/index.html)
+- [ ] Stanford CS106B/CS106X
 - [ ] UCB CS61B sp18
 - [ ] CS61B Sp21
 - [ ] 清华大学邓俊辉 数据结构学习
@@ -431,7 +431,7 @@
 - [ ] [Cornell 高级系统研讨课](https://www.cs.cornell.edu/courses/cs614/2007fa/)
 - [ ] [Harvard Software System 研讨课](https://read.seas.harvard.edu/cs260r/2022/)
 - [ ] https://www.scs.stanford.edu/22wi-cs212/
-
+- [ ] [上交ACM班操作系统课程设计](https://bcmi.sjtu.edu.cn/home/limu/nachos/#lecture)
 # 科研方法论
 
 - [ ] [How to read papers](https://web.stanford.edu/class/cs114/reading-levis.pdf)
@@ -565,6 +565,7 @@
   - [ ] [CS240H Functional System in Haskell](https://www.scs.stanford.edu/11au-cs240h/)
   - [ ] https://cdn.jsdelivr.net/gh/it-ebooks-0/it-ebooks-2017-04to06/%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%A6%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E8%AE%B2%E4%B9%89.pdf
   - [ ] https://compiler-sdu.github.io/
+  - [ ] [上交ACM班编译原理课程设计](https://bcmi.sjtu.edu.cn/home/limu/tiger/)
 
 ## 数据库系统 -> 目标:实现小型的 KV 数据库,关系型数据库和分布式数据库
 
@@ -589,6 +590,7 @@
 - [ ] Let's Build a Simple Database, thanks to cstack
 - [ ] Cornell [Introduction to Database Systems](http://www.databaselecture.com/) by Prof. Trummer
 - [ ] [Advanced Database Systems Home Page (nyu.edu)](https://cs.nyu.edu/courses/fall07/G22.2434-001/)
+- [ ] [上交ACM班数据库系统课程设计](https://bcmi.sjtu.edu.cn/home/limu/dbms/#overview)
 
 ## 并行与分布式系统 -> 目标:实现多个分布式算法和分布式数据库
 
